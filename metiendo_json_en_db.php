@@ -7,7 +7,7 @@ $decodefinal=$decode["mensaje"];
 
 $hostname="localhost";
 $nombreUsuario="root";
-$contraseña="root";
+$contraseña="Abielero12@";
 $bd="perros";
 $nombreConexion = mysqli_connect($hostname , $nombreUsuario , $contraseña,$bd);
 
